@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav Patel.
 - 👀 I’m interested in generally anything related to computers.
-- 🌱 I’m currently learning Rust and applying it to contribute to open-source (specialy to image processing)
+- 🌱 I’m currently learning Rust and applying it to contribute to open-source.
 
 ![Gaurav Patel's Stats](https://github-readme-stats.vercel.app/api?username=gp-97&theme=black-white)
 
